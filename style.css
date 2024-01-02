@@ -1,0 +1,9 @@
+@media (max-width:768px){
+	.box-spedizioni {
+		flex-direction:column;
+		justify-content:space-between;
+	}
+	.box-spedizioni div {
+		width:100%
+	}
+}
